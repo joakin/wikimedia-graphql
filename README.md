@@ -2,6 +2,8 @@
 
 A test implementation of a graphql server for Wikimedia APIs. WIP.
 
+![test run!](./wm-graphql.gif)
+
 ## Links
 
 * http://graphql.org/learn/schema/
